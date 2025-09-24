@@ -1,18 +1,17 @@
 # React + Vite
 A simple React application that allows users to change the background color of the screen with just one click. This project is built using React + TailwindCSS.
+
 🚀 Features
+1.Change background color dynamically by clicking buttons.
 
-Change background color dynamically by clicking buttons.
+2.Responsive UI using TailwindCSS.
 
-Responsive UI using TailwindCSS.
+3.Colors available:(Red, Yellow, Green, White, Olive, Grey, Pink)
 
-Colors available:
-Red, Yellow, Green, White, Olive, Grey, Pink
-
-Clean and minimal code with React Hooks (useState).
+4.Clean and minimal code with React Hooks (useState).
 🛠️ Tech Stack
 
-React – For building UI
+React – For building UI -colorful UI
 
 TailwindCSS – For styling
 
