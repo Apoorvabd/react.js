@@ -19,7 +19,7 @@ TailwindCSS – For styling
 
 Vite – For fast development server
 
-#here is a look of my project
+## here is a look of my project
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af512949-d50f-444f-bffb-246b9270b5b8" />
 project-folder/
