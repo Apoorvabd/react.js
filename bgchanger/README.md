@@ -10,14 +10,14 @@ A simple React application that allows users to change the background color of t
 
 4.Clean and minimal code with React Hooks (useState).
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-React – For building UI - 🎨 Colorful UI
+1. React – For building UI - 🎨 Colorful UI
 
 
-TailwindCSS – For styling
+2. TailwindCSS – For styling
 
-Vite – For fast development server
+3. Vite – For fast development server
 
 ## here is a look of my project
 
