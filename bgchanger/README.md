@@ -18,15 +18,25 @@ TailwindCSS – For styling
 Vite – For fast development server
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af512949-d50f-444f-bffb-246b9270b5b8" />
 project-folder/
+
 │
+
 ├── src/
-│   ├── App.jsx        # Main React component
-│   ├── main.jsx       # Entry point
-│   └── index.css      # Tailwind styles
+
+│   ├── App.jsx        
+
+│   ├── main.jsx       
+
+│   └── index.css      
+
 │
+
 ├── package.json
+
 ├── tailwind.config.js
+
 └── README.md
+
 
 git clone https://github.com/your-username/color-changer-app.git
 cd color-changer-app
