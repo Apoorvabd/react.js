@@ -9,9 +9,11 @@ A simple React application that allows users to change the background color of t
 3.Colors available:(Red, Yellow, Green, White, Olive, Grey, Pink)
 
 4.Clean and minimal code with React Hooks (useState).
+
 🛠️ Tech Stack
 
-React – For building UI -colorful UI
+React – For building UI ![Paint Emoji](./paint-emoji.svg "Paint Palette")
+
 
 TailwindCSS – For styling
 
@@ -44,8 +46,9 @@ cd color-changer-app
 npm install
 
 npm run dev
-Now open http://localhost:5173
- in your browser.
+
+Now open http://localhost:5173in your browser.
+
  npm run build
 
 
