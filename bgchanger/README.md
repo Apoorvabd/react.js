@@ -12,7 +12,7 @@ A simple React application that allows users to change the background color of t
 
 🛠️ Tech Stack
 
-React – For building UI ![Paint Emoji](./paint-emoji.svg "Paint Palette")
+React – For building UI - 🎨 Colorful UI
 
 
 TailwindCSS – For styling
